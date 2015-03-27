@@ -20,7 +20,6 @@ DX = XRange/NDX
 DT = XRange/NDX/abs(VxMax)
 NumSteps = 2000
 
-
 VMark = 700.
 TotalMonster = 0
 for i in range(0,NumSteps):
